@@ -8,3 +8,4 @@ START the json-server with: **json-server -port 4300 -watch db.json**
 
 run it before to_do_app
  
+#### To_do_app has its own readme
